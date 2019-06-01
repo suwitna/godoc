@@ -1,3 +1,4 @@
 # godoc
 1. Install docker toolbox on Window 10 home
-2. Cretae folder godoc -> '/go/src/godoc'
+2. Clone data from github
+   git clone --recursive https://github.com/suwitna/godoc.git
